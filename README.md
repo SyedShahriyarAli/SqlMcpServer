@@ -13,7 +13,7 @@ A Model Context Protocol (MCP) server that provides secure, read-only access to 
 
 ## Prerequisites
 
-- .NET 6.0 or higher
+- .NET 8.0 or higher
 - SQL Server (any version that supports Microsoft.Data.SqlClient)
 - Visual Studio Code (recommended) or any .NET IDE
 
@@ -21,7 +21,7 @@ A Model Context Protocol (MCP) server that provides secure, read-only access to 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/SyedShahriyarAli/SqlMcpServer.git
 cd SqlMcpServer
 ```
 
