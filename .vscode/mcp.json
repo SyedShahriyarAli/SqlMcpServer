@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "sql-mcp-server": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\Shahriyar\\source\\repos\\CodeWithShahri\\SqlMcpServer\\SqlMcpServer\\SqlMcpServer.csproj"
+            ]
+        }
+    }
+}
